@@ -107,3 +107,14 @@ Use Online Resources: Platforms like LeetCode, GeeksforGeeks, HackerRank for pra
 Join Study Groups: Collaborate with peers to discuss problems and solutions.
 Mock Interviews: Utilize platforms like Pramp or interviewing.io for realistic interview practice.
 Stay Consistent: Maintain a consistent study schedule and take short breaks to avoid burnout.
+
+## Clone 
+```bash
+git init
+git clone https://github.com/Shiro005/dataStructures.git
+cd dataStructures
+code . 
+```
+
+# Happy Coding 😊 
+***~Shriyash R.*** 🦇 
